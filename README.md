@@ -1,2 +1,2 @@
 # Verilog-Programming
-This repository will provide you programming examples of various Digital Circuits using Verilog.  
+This repository will provide you examples of various Digital Circuits, programmed using Verilog language.  
